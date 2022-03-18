@@ -37,6 +37,6 @@ Web-game is a simple card game where users objective is to find and match all ca
 - Thymeleaf
 
 ## Screenshots of working app
-https://github.com/OskarSajdak/Web-game/blob/main/Screenshot%202022-03-18%20at%2022.43.38.png
-https://github.com/OskarSajdak/Web-game/blob/main/Screenshot%202022-03-18%20at%2022.42.49.png
-https://github.com/OskarSajdak/Web-game/blob/main/Screenshot%202022-03-18%20at%2022.42.04.png
+![Alt text](https://github.com/OskarSajdak/Web-game/blob/main/Screenshot%202022-03-18%20at%2022.43.38.png?raw=true)
+![Alt text](https://github.com/OskarSajdak/Web-game/blob/main/Screenshot%202022-03-18%20at%2022.42.49.png?raw=true)
+![Alt text](https://github.com/OskarSajdak/Web-game/blob/main/Screenshot%202022-03-18%20at%2022.42.04.png?raw=true)
